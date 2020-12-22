@@ -1,0 +1,14 @@
+- Azure Container Registry Documentation
+https://docs.microsoft.com/en-us/azure/container-registry/
+
+- Introduction to private Docker container registries in Azure
+https://docs.microsoft.com/en-us/azure/container-registry/container-registry-intro
+
+- Quickstart: Create a private container registry using the Azure CLI
+https://docs.microsoft.com/en-us/azure/container-registry/container-registry-get-started-azure-cli
+
+- Quickstart: Create a private container registry using the Azure portal
+https://docs.microsoft.com/en-us/azure/container-registry/container-registry-get-started-portal
+
+- Authenticate with Azure Container Registry from Azure Kubernetes Service
+https://docs.microsoft.com/en-us/azure/container-registry/container-registry-auth-aks

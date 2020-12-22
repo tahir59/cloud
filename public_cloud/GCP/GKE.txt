@@ -1,0 +1,5 @@
+- Creating and Managing Projects
+https://cloud.google.com/resource-manager/docs/creating-managing-projects
+
+- Ingress with NGINX controller on Google Kubernetes Engine
+https://cloud.google.com/community/tutorials/nginx-ingress-gke

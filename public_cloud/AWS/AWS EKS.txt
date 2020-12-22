@@ -1,0 +1,35 @@
+- Getting Started with the AWS Management Console
+https://docs.aws.amazon.com/eks/latest/userguide/getting-started-console.html
+
+- Updating an Amazon EKS Cluster Kubernetes Version
+https://docs.aws.amazon.com/eks/latest/userguide/update-cluster.html
+
+- Managing Users or IAM Roles for your Cluster
+https://docs.aws.amazon.com/eks/latest/userguide/add-user-role.html
+
+- Install the AWS CLI
+https://docs.aws.amazon.com/cli/latest/userguide/install-bundle.html
+
+- Installing aws-iam-authenticator
+https://docs.aws.amazon.com/eks/latest/userguide/install-aws-iam-authenticator.html
+
+- Installing kubectl
+https://docs.aws.amazon.com/eks/latest/userguide/install-kubectl.html
+
+- Create a kubeconfig for Amazon EKS
+https://docs.aws.amazon.com/eks/latest/userguide/create-kubeconfig.html
+
+- Deploy the Kubernetes Web UI (Dashboard)
+https://docs.aws.amazon.com/eks/latest/userguide/dashboard-tutorial.html#dashboard-prereqs
+
+- Installing the Kubernetes Metrics Server
+https://docs.aws.amazon.com/eks/latest/userguide/metrics-server.html
+
+- Amazon EKS Workshop
+https://eksworkshop.com/
+
+- Get Started With The Amazon Elastic Container Service For Kubernetes (EKS)
+https://docs.bitnami.com/aws/get-started-eks/
+
+- EKS cluster
+https://go.cloudbees.com/docs/cloudbees-documentation/install-cje/eks-install/#_nginx_ingress_controller

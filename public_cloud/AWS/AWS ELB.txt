@@ -1,0 +1,8 @@
+- What Is Elastic Load Balancing?
+https://docs.aws.amazon.com/elasticloadbalancing/latest/userguide/what-is-load-balancing.html
+
+- How Elastic Load Balancing Works
+https://docs.aws.amazon.com/elasticloadbalancing/latest/userguide/how-elastic-load-balancing-works.html
+
+- Getting Started with Elastic Load Balancing
+https://docs.aws.amazon.com/elasticloadbalancing/latest/userguide/load-balancer-getting-started.html

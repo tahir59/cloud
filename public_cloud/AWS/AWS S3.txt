@@ -1,0 +1,8 @@
+- Getting Started with Amazon Simple Storage Service
+https://docs.aws.amazon.com/AmazonS3/latest/gsg/GetStartedWithS3.html
+
+- Create a Bucket
+https://docs.aws.amazon.com/AmazonS3/latest/gsg/CreatingABucket.html
+
+- Amazon S3 Server Access Logging
+https://docs.aws.amazon.com/AmazonS3/latest/dev/ServerLogs.html

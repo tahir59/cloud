@@ -1,0 +1,5 @@
+- Architectures
+https://gcp.solutions/
+
+- Solutions
+https://cloud.google.com/solutions

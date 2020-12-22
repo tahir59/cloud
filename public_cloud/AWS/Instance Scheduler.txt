@@ -1,0 +1,5 @@
+- AWS Instance Scheduler
+https://docs.aws.amazon.com/solutions/latest/instance-scheduler/overview.html
+
+- How do I stop and start Amazon EC2 instances at regular intervals using Lambda?
+https://aws.amazon.com/premiumsupport/knowledge-center/start-stop-lambda-cloudwatch

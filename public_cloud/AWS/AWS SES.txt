@@ -1,0 +1,5 @@
+- Amazon SES Quick Start
+https://docs.aws.amazon.com/ses/latest/DeveloperGuide/quick-start.html
+
+- Integrating Amazon SES with Exim
+https://docs.aws.amazon.com/ses/latest/DeveloperGuide/send-email-exim.html

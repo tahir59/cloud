@@ -1,0 +1,20 @@
+* Getting Started with CloudFront
+https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/GettingStarted.html
+
+* Using Amazon S3 Origins, MediaPackage Channels, and Custom Origins for Web Distributions
+https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/DownloadDistS3AndCustomOrigins.html#concept_S3Origin
+
+* Configuring and Using Access Logs
+https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/AccessLogs.html
+
+* Managing How Long Content Stays in an Edge Cache (Expiration)
+https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/Expiration.html
+
+* Routing Traffic to an Amazon CloudFront Web Distribution by Using Your Domain Name
+https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/routing-to-cloudfront-distribution.html
+
+* Creating AWS CloudFront Distribution with S3 Origin
+https://medium.com/tensult/creating-aws-cloudfront-distribution-with-s3-origin-ee47b8122727
+
+* Set Cache Control for Entire S3 Bucket
+https://faragta.com/aws-s3/set-cache-control-for-entire-s3-bucket.html

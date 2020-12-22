@@ -1,0 +1,5 @@
+- Getting Started with Amazon Inspector
+https://docs.aws.amazon.com/inspector/latest/userguide/inspector_getting-started.html#pre-requisites
+
+- Installing Amazon Inspector Agents
+https://docs.aws.amazon.com/inspector/latest/userguide/inspector_installing-uninstalling-agents.html#install-linux

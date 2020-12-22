@@ -1,0 +1,14 @@
+- Azure Spring Cloud documentation
+https://docs.microsoft.com/en-us/azure/spring-cloud/
+
+- Quickstart: Launch an Azure Spring Cloud application using the Azure portal
+https://docs.microsoft.com/en-us/azure/spring-cloud/spring-cloud-quickstart-launch-app-portal
+
+- Quickstart: Launch a Java Spring application using the Azure CLI
+https://docs.microsoft.com/en-us/azure/spring-cloud/spring-cloud-quickstart-launch-app-cli
+
+- CI/CD for Azure Spring Cloud
+https://docs.microsoft.com/en-us/azure/spring-cloud/spring-cloud-howto-cicd
+
+- Github
+https://github.com/Azure-Samples/piggymetrics

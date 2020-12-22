@@ -1,0 +1,14 @@
+- Getting Started with Amazon VPC
+https://docs.aws.amazon.com/vpc/latest/userguide/vpc-getting-started.html
+
+- Working with VPC Peering Connections
+https://docs.aws.amazon.com/vpc/latest/peering/working-with-vpc-peering.html
+
+- Creating and Accepting a VPC Peering Connection
+https://docs.aws.amazon.com/vpc/latest/peering/create-vpc-peering-connection.html
+
+- VPC Flow Logs
+https://docs.aws.amazon.com/vpc/latest/userguide/flow-logs.html
+
+- Making Application Failover Seamless by Failing Over Your Private Virtual IP Across Availability Zones
+https://aws.amazon.com/blogs/apn/making-application-failover-seamless-by-failing-over-your-private-virtual-ip-across-availability-zones/

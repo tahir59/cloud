@@ -1,0 +1,14 @@
+- What Is the AWS Command Line Interface?
+https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-welcome.html
+
+- Install the AWS CLI on Linux
+https://docs.aws.amazon.com/cli/latest/userguide/install-linux.html
+
+- Install the AWS CLI on Windows
+https://docs.aws.amazon.com/cli/latest/userguide/install-windows.html
+
+- Configuring the AWS CLI
+https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-configure.html
+
+- Using High-Level (s3) Commands with the AWS CLI
+https://docs.aws.amazon.com/cli/latest/userguide/cli-services-s3-commands.html

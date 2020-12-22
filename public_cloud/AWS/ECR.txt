@@ -1,0 +1,6 @@
+- Amazon ECR Docker Credential Helper
+https://github.com/awslabs/amazon-ecr-credential-helper
+ln -s /path/to/docker-credential-ecr-login /bin/docker-credential-ecr-login
+
+- Authenticating Amazon ECR Repositories for Docker CLI with Credential Helper
+https://aws.amazon.com/blogs/compute/authenticating-amazon-ecr-repositories-for-docker-cli-with-credential-helper/

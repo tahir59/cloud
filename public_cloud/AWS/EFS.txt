@@ -1,0 +1,14 @@
+- What Is Amazon Elastic File System?
+https://docs.aws.amazon.com/efs/latest/ug/whatisefs.html
+
+- Mounting Your Amazon EFS File System Automatically
+https://docs.aws.amazon.com/efs/latest/ug/mount-fs-auto-mount-onreboot.html
+
+- Mounting EFS File Systems from Another Account or VPC
+https://docs.aws.amazon.com/efs/latest/ug/manage-fs-access-vpc-peering.html
+
+- Troubleshooting Mount Issues
+https://docs.aws.amazon.com/efs/latest/ug/troubleshooting-efs-mounting.html
+
+- Troubleshooting Encryption
+https://docs.aws.amazon.com/efs/latest/ug/troubleshooting-efs-encryption.html

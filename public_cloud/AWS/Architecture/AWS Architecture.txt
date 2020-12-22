@@ -1,0 +1,18 @@
+- AWS Solutions
+https://aws.amazon.com/solutions/reference-architectures/?whitepapers-main.sort-by=item.additionalFields.sortDate&whitepapers-main.sort-order=desc
+
+- https://ecsworkshop.com/
+- https://eksworkshop.com/
+- https://lightsailworkshop.com/
+
+- Securing Amazon EKS Using Lambda and Falco
+https://aws.amazon.com/blogs/opensource/securing-amazon-eks-lambda-falco/
+
+- Building a cross-account continuous delivery pipeline for database migrations
+https://aws.amazon.com/blogs/database/building-a-cross-account-continuous-delivery-pipeline-for-database-migrations/
+
+- Making Application Failover Seamless by Failing Over Your Private Virtual IP Across Availability Zones
+https://aws.amazon.com/blogs/apn/making-application-failover-seamless-by-failing-over-your-private-virtual-ip-across-availability-zones/
+
+- Creating highly available IBM Db2 databases in AWS
+https://aws.amazon.com/blogs/database/creating-highly-available-ibm-db2-databases-in-aws/

@@ -1,0 +1,8 @@
+- What is Amazon Simple Notification Service?
+https://docs.aws.amazon.com/sns/latest/dg/welcome.html
+
+- Getting Started with Amazon SNS
+https://docs.aws.amazon.com/sns/latest/dg/sns-getting-started.html
+
+- sns-python-example-publish-to-topic.py
+https://docs.aws.amazon.com/code-samples/latest/catalog/python-sns-sns-python-example-publish-to-topic.py.html

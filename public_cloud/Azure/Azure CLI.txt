@@ -1,0 +1,18 @@
+- The Azure Command-Line Interface (CLI)
+https://docs.microsoft.com/en-us/cli/azure/?view=azure-cli-latest
+
+- Get started with Azure CLI
+https://docs.microsoft.com/en-us/cli/azure/get-started-with-azure-cli?view=azure-cli-latest
+
+- Install the Azure CLI
+https://docs.microsoft.com/en-us/cli/azure/install-azure-cli?view=azure-cli-latest
+
+- Install Azure CLI on Windows
+https://docs.microsoft.com/en-us/cli/azure/install-azure-cli-windows?view=azure-cli-latest
+
+- Install Azure CLI with apt
+https://docs.microsoft.com/en-us/cli/azure/install-azure-cli-apt?view=azure-cli-latest
+
+- Install Azure CLI with yum
+https://docs.microsoft.com/en-us/cli/azure/install-azure-cli-yum?view=azure-cli-latest
+

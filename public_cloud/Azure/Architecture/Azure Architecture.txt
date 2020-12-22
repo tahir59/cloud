@@ -1,0 +1,7 @@
+- Architectures
+https://docs.microsoft.com/en-us/azure/architecture/browse/
+
+- Solution
+https://azure.microsoft.com/en-us/solutions/
+
+- https://aksworkshop.io/

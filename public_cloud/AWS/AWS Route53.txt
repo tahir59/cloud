@@ -1,0 +1,5 @@
+* Getting Started with Amazon Route 53
+https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/getting-started.html
+
+* Routing Internet Traffic to Your AWS Resources
+https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/routing-to-aws-resources.html

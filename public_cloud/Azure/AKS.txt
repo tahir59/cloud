@@ -1,0 +1,11 @@
+- Azure Kubernetes Service (AKS)
+https://docs.microsoft.com/en-us/azure/aks/
+
+- Azure Kubernetes Service (AKS)
+https://docs.microsoft.com/en-us/azure/aks/intro-kubernetes
+
+- Quickstart: Deploy an Azure Kubernetes Service (AKS) cluster using the Azure CLI
+https://docs.microsoft.com/en-us/azure/aks/kubernetes-walkthrough
+
+- Quickstart: Deploy an Azure Kubernetes Service (AKS) cluster using the Azure portal
+https://docs.microsoft.com/en-us/azure/aks/kubernetes-walkthrough-portal

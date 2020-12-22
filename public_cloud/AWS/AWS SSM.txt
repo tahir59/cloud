@@ -1,0 +1,14 @@
+- Getting Started with AWS Systems Manager
+https://docs.aws.amazon.com/systems-manager/latest/userguide/getting-started.html
+
+- Working with SSM Agent
+https://docs.aws.amazon.com/systems-manager/latest/userguide/ssm-agent.html
+
+- Installing and Configuring SSM Agent on Amazon EC2 Linux Instances
+https://docs.aws.amazon.com/systems-manager/latest/userguide/sysman-install-ssm-agent.html
+
+- Manually Install SSM Agent on Amazon EC2 Linux Instances
+https://docs.aws.amazon.com/systems-manager/latest/userguide/sysman-manual-agent-install.html
+
+- Remotely Run Commands on an EC2 Instance
+https://aws.amazon.com/getting-started/tutorials/remotely-run-commands-ec2-instance-systems-manager/
